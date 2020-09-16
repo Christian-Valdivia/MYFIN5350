@@ -1,0 +1,5 @@
+Reflection for Homework 1 | 9-15-2020
+
+Today, I met with Nate to work on our pair homework assignment. We spent a the first few minutes of our meeting discussing questions we had about Git, Jupyter, and Python. For the most part, we knew the answers to our own question but we still wanted to get eachothers opinion before proceeding. We had no issues cloning the repository nor creating notebooks on Jupyter. We were able to code the assignment with no issues. We both have some experience with Python, therefore it was a relatively simple task to complete. An issue I had was that I did not know how to delete a repository. That is something that I will ask in the next class session. 
+
+Overall, the meeting went really well. It was a relatively quick assignment, but we understand it will only increase in complexity from here on. I enjoyed meeting with Nate and look forward to working with him on future pair assignments. 
