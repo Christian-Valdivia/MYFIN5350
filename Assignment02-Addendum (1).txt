@@ -1,0 +1,94 @@
+1-
+
+a. $610.27
+
+b. $376.89
+
+c. $235.41
+
+2-
+
+a. $1,000
+
+b. $802.38
+
+c. $1,283.62
+
+3-
+
+YTM = 7.093%
+
+4-
+
+YTM = 8.033%
+
+5-
+
+9.301%
+
+In order for this company to sell at par they will need to have a coupon rate
+that is equal to their YTM. If they changed their coupon rate to 9.301% then it will
+sell at par value.
+
+6-
+
+Problem 1:
+
+Aggies Inc. has issued a bond with the following characteristics:
+par = $1,000
+Time to maturity(in years) = 12
+coupon rate = 8%
+Semi-annual payments
+YTM = 10%
+
+What is the price of the bond?
+
+Answer: $862.01
+
+Problem 2:
+
+Aggies Corp. has issued a bond with the following characteristics:
+
+par = 92% of par
+coupon rate = 9%
+Quarterly payments
+YTM = 7%
+Time to maturity(in years) = 15
+
+What is the price of the bond?
+
+Answer: $1,090.03
+
+7-
+
+Problem 1:
+
+Aggies Inc. has issued a bond with the following characteristics:
+par = $1,000
+Time to maturity(in years) = 12
+coupon rate = 6.5%
+Semi-annual payments
+Bond Price = 103% of par
+
+What is the YTM?
+
+Answer: YTM = 6.143%
+EAR = 6.311%
+
+
+Problem 2:
+
+Aggies Inc. has issued a bond with the following characteristics:
+par = 96% of par
+Time to maturity(in years) = 18
+coupon rate = 8%
+Quarterly Payments
+Bond Price = 95% of par
+
+What is the YTM?
+
+Answer: YTM = 7.89%
+EAR = 7.917%
+
+
+
